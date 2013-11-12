@@ -1,0 +1,2 @@
+# Module com.westernarc.starfarer.GwtDefinition
+# RPC service class, partial path of RPC policy file
